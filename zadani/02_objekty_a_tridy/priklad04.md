@@ -11,7 +11,7 @@ class Employee:
     self.position = position
 ```
 
-Nyní se budeme zabývat platem. Přidej třídě atribut `salary` (výše hrubého platu) a `children` (počet dětí), jehož výši nastavíš ve metodu `__init__()`. Dále přidej metodu `get_net_salary()`, která vypočte a vrátí výši čisté mzdy. Uvažuj zjednodušený výpočet: sazba daně je 15 % a sleva na jedno dítě 1500 Kč. Vzorec pro výpočet daně tedy je: daň = hrubá mzda * 0.15 - počet dětí * 1500. Metoda vrátí výši čisté mzdy, tj. čistá mzda = hrubá mzda - daň. Daň může vyjít i záporná.
+Nyní se budeme zabývat platem. Přidej třídě atribut `salary` (výše hrubého platu) a `children` (počet dětí), jejichž výši nastavíš v metodě `__init__()`. Dále přidej metodu `get_net_salary()`, která vypočte a vrátí výši čisté mzdy. Uvažuj zjednodušený výpočet: sazba daně je 15 % a sleva na jedno dítě 1500 Kč. Vzorec pro výpočet daně tedy je: daň = hrubá mzda * 0.15 - počet dětí * 1500. Metoda vrátí výši čisté mzdy, tj. čistá mzda = hrubá mzda - daň. Daň může vyjít i záporná.
 
 ## Pokročilé zadání
 

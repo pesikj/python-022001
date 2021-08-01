@@ -1,6 +1,6 @@
 # Morseova abeceda
 
-Ve slovníku níže vidíš Morseovu abecedu, kde jako klíč slouží znak v klasické abecedě a jako hodnota zápis znak v Morseově abecedě.
+Ve slovníku níže vidíš Morseovu abecedu, kde jako klíč slouží znak v klasické abecedě a jako hodnota zápis znaku v Morseově abecedě.
 
 1. Napiš program, který se uživatele zeptá na text, který chce zapsat v Morseově abecedě. Uvažuj disciplinovaného uživatele, který zadává pouze znaky bez diakritiky, malá písmena atd. Na začátku uvažuj i to, že uživatel nezadává mezery.
 1. Projdi řetězec zadaný uživatelem. Najdi každý znak ve slovníku a vypiš ho na obrazovku v Morseově abecedě.

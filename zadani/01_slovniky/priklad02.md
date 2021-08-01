@@ -8,7 +8,7 @@ Napiš software, který bude využívat prodavač v případě, že do obchodu p
 Software se nejprve zeptá na kód součástky a poté na množství, které si zákazník
 chce koupit. Obě informace si ulož. Následně naprogramuj následující varianty:
 
-* Pokud zadaný zadaný kód není ve slovníku, není součástka skladem. Vypiš tedy zprávu, že součástka není skladem.
+* Pokud zadaný kód není ve slovníku, není součástka skladem. Vypiš tedy zprávu, že součástka není skladem.
 * Pokud zadaná součástka na skladě je, ale je jí méně, než požaduje zákazník, vypiš text o tom, že lze prodat pouze omezené množství kusů. Následně součástku odeber ze slovníku, protože je vyprodaná.
 * Pokud zadaná součástka na skladě je a je jí dostatek, vypiš informaci, že poptávku lze uspokojit v plné výši, a sniž počet součástek na skladě o množství požadované zákazníkem.
 
