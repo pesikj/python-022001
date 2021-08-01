@@ -4,7 +4,7 @@ Pokračuj ve své práci pro streamovací službu. Služba nyní eviduje uživat
 
 Třídám `Serial` a `Film` přidej funkce `get_celkova_delka()`, která vrátí celkovou délku filmu/seriálu (u seriálu je to počet episod násobený délkou jedné episody).
 
-Třídě `Uzivatel` přidej funkci `pripocti_zhlednuti()`, která bude mít jeden parametr. Funkce zvýší atribut udávající celkovou délku sledávní o zadaný parametr.
+Třídě `Uzivatel` přidej funkci `pripocti_zhlednuti()`, která bude mít jeden parametr. Funkce zvýší atribut udávající celkovou délku sledování o zadaný parametr.
 
 Vytvoř objekt, který reprezentuje nějakého uživatele. Následně zkus uvažovat situaci, že uživatel zhlédne film a seriál, které jsi vytvořil(a) jako objekty. Uživateli připočti délky děl k délce sledování, využij k tomu funkci `get_celkova_delka()` u objektu a seriálu, abys zjistil(a), kolik minut (nebo hodin) videa celkem uživatel zhlédl.
 

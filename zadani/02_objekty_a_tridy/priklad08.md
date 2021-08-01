@@ -1,4 +1,4 @@
-# Inverview
+# Interview
 
 Uvažuj následující třídu `Kontakt`, která slouží k evidenci všech kontaktů (např. zákazníků, zaměstnanců, uchazečů o práci atd.).
 

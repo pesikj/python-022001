@@ -12,4 +12,4 @@ Vypiš si prvních několik řádků, ať si prohlédneš strukturu tabulky. Dá
 
 *Tato část je jen doplnění, k získání bodu je potřeba zpracovat i dotazy výše :-)*
 
-Vrať se k pomocné tabulce, kterou jsi vytvořila v bodu 2. Vypiš průměrnou hodnotu ze všech měření, která byla provedena 13. listopadu 2017 na úzení Spojených států amerických. K tomu využij funkci `.mean()`, která funguje stejně jako funkce `.sum()`, kterou jsme si ukazovali na lekci. Pokud znáš základy statistiky, zkus funkci pro medián `.median()` a rozptyl `.var()`.
+Vrať se k pomocné tabulce, kterou jsi vytvořila v bodu 2. Vypiš průměrnou hodnotu ze všech měření, která byla provedena 13. listopadu 2017 na území Spojených států amerických. K tomu využij funkci `.mean()`, která funguje stejně jako funkce `.sum()`, kterou jsme si ukazovali na lekci. Pokud znáš základy statistiky, zkus funkci pro medián `.median()` a rozptyl `.var()`.

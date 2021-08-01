@@ -10,7 +10,7 @@ Každé zakázce přiřadí body od 0 do 10 a platí:
 Body přidělují podle následujících kritérií:
 - Odvětví: Firma nejlépe prodává do automotive, o něco hůře do retailu.
 Pokud potenciální zákazník podniká v automotive, přičti 3 body, pokud v retailu,
-   přičti 2 bod, jinak 0.
+   přičti 2 body, jinak 0.
 - Obrat: Firma nejlépe prodává zákazníkům se středním obratem. U malých většinou neuspěje,
 u velkých občas ano. Pokud má firma obrat menší než 10 mil. Euro, přičti 0. Pokud je mezi
   10 a 1 000 mil. Euro, přičti 3 body, jinak 1 bod.
