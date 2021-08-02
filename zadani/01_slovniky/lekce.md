@@ -11,7 +11,10 @@
 ## Slovníky s využitím cyklů
 
 * [Státy světa](priklad06.md),
-* [Státy světa podruhé](priklad07.md),
+* [Státy světa podruhé](priklad07.md).
+
+## Funkce
+
 * [SMS brána](priklad08.md),
 * [Maturita](priklad09.md),
 * [Klíč k úspěchu](priklad10.md).
